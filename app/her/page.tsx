@@ -1,19 +1,14 @@
 import Link from "next/link";
 
-export default function HerPage() {
+export default function HimPage() {
   return (
-    <main className="min-h-screen bg-linear-to-br from-pink-100 via-white to-rose-100 px-6 py-20 text-slate-800">
-      <div className="mx-auto max-w-2xl rounded-3xl border border-pink-200 bg-white/80 p-8 shadow-xl backdrop-blur-sm sm:p-12">
-        <p className="text-sm font-medium uppercase tracking-[0.3em] text-pink-600">
-          For Her
-        </p>
-        <h1 className="mt-4 text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl">
-          You are treasured beyond words.
+    <main className="min-h-screen bg-gray-900 px-6 py-20 text-slate-800">
+      <div className="mx-auto max-w-2xl rounded-3xl border bg-[#9DB5C9] p-8 shadow-xl backdrop-blur-sm sm:p-12">
+        
+        <h1 className="mt-4 text-4xl font-bold text-center tracking-tight text-slate-900 sm:text-5xl">
+          She likes paper:)
         </h1>
-        <p className="mt-6 text-lg leading-8 text-slate-600">
-          Your kindness, grace, and warmth make every moment brighter. Keep being the beautiful,
-          thoughtful soul you are, and never forget how deeply you are cherished.
-        </p>
+        
 
         <div className="mt-8 flex flex-wrap gap-4">
           <Link
