@@ -91,15 +91,6 @@ export default function HimPage() {
           className="mt-10 border rounded-2xl border-slate-300/70 bg-white/40
          p-5 shadow-sm"
         >
-          <div className=" flex mb-6 justify-end">
-            <span
-              aria-hidden="true"
-              className="inline-flex items-center rounded-full bg-rose-600 px-3 py-1 text-xs font-bold tracking-wider text-white shadow-sm ring-4 ring-rose-600/15"
-            >
-              NEW
-            </span>
-          </div>
-
           <p className="mt-3 leading-8 text-lg text-slate-900">
             Sudha ko gaye ek mahina ho gaya hai, lekin mere liye yeh ek baras se
             kam nahi tha. Log kehte hain waqt beet raha hai, par mujhe toh lagta
@@ -162,6 +153,145 @@ export default function HimPage() {
             ho gayi.
             <br />
             Good night, Sudha! Ab neend aa rahi hai.
+          </p>
+        </div>
+
+        {/* after 5years */}
+        <div className="mt-10 border rounded-2xl border-slate-300/70 bg-white/40 p-5 shadow-sm">
+          <div className=" flex mb-6 justify-end">
+            <span
+              aria-hidden="true"
+              className="inline-flex items-center rounded-full bg-rose-600 px-3 py-1 text-xs font-bold tracking-wider text-white shadow-sm ring-4 ring-rose-600/15"
+            >
+              NEW
+            </span>
+          </div>
+
+          <p className="mt-3 leading-8 text-lg text-slate-900">
+            October ka mahina hai. Subah-subah pehli thand mehsoos hone lagi
+            hai. Maine morning walk karna shuru kar diya hai. Roz subah 6 se
+            7:30 baje tak walk karta hoon. Aaj ghar se lagbhag 40min ki doori
+            par sthit ek public park mein jaane ka faisla kiya. Yeh jagah mere
+            liye nayi nahi hai. Mahine mein 4-5 baar yahan aana-jaana laga rehta
+            hai. Main aur Sudha apne bachelor days mein yahan aaya karte the.
+            <br /> Park pahunchkar maine walk shuru kiya. Chalte-chalte mere
+            kadam apne aap us jagah ki taraf badhne lage, jahan main aur Sudha
+            aksar baitha karte the. Park ke ek kone mein rakhi woh bench tez
+            dhoop se bachi rehti thi. Hum dono wahin baithkar ghanton baatein
+            kiya karte the. Aaj dekha toh kuch students wahan picnic mana rahe
+            the. Unka saara samaan usi bench par rakha hua tha. Kuch der wahin
+            khada raha. Na jaane kyun, aaj purane din kuch zyada hi yaad aa rahe
+            the.
+            <br /> Tabhi phone ring hua. Binodini ka call tha. Maine phone
+            uthaya, lekin mere kuch bolne se pehle hi woh kehne lagi, "Babuji,
+            kab tak aayenge? Nashtay mein paratha bana doon ya coffee?" Maine
+            kaha, "Omelette bana do." Kuch pal rukne ke baad usne kaha, "Good
+            morning, aur jaldi aaiyega." Mere jawab ka intezaar kiye bina hi
+            usne phone kaat diya.
+            <br /> Mere chehre par halki si muskurahat aa gayi. Ab ghar lautne
+            ka waqt ho gaya tha.
+            <br />
+            <br />
+            Aaj walk se lautne mein thodi der ho gayi thi.Ghar pahunchkar main
+            seedha apne kamre mein nahaane chala gaya. Raaste mein meri nazar
+            Binodini par padi. Woh Maa ji ke pair daba rahi thi. Uske aane se
+            Maa ji kaafi khush rehti hain. Unhe bhi aaram milta hai. Naha kar
+            jab kamre se bahar nikla toh dekha ki mere kapde bed par achhe se
+            fold karke rakhe hue the. Mujhe guess karne ki zaroorat nahi padi ki
+            yeh Binodini ne hi kiya hoga. Nashta kiya aur apne kamre mein office
+            ka kaam karne chala gaya.
+            <br />
+            Ab office ka kaam pehle se kaafi flexible ho gaya hai aur ghar se hi
+            ho jata hai. Break ke waqt coffee banane kitchen mein gaya. Coffee
+            banane mein in paanch saalon mein kaafi sudhaar aaya hai. Wahin
+            khade hokar Sudha ki mummy ko call lagane ki koshish ki, lekin
+            unhone phone nahi uthaya. Unki tabiyat ab pehle se behtar hai.
+            Hamari baaton ke beech ab kabhi-kabhi hasi-mazaak bhi ho jata hai.
+            <br />
+            Tabhi Binodini kitchen mein aa gayi. Usne hare rang ka suit pehna
+            hua tha. Bina kisi khaas shringar ke bhi woh kaafi alag lag rahi
+            thi. Uski aankhon ka tej aur saadgi mein ek alag hi baat thi. Na
+            jaane kyun, meri nazar kuch der usi par tiki rahi. Usne muskurate
+            hue kaha, "Babuji, hum achhe nahi lag rahe kya, jo aap aise dekh
+            rahe hain?" Main kuch pal ke liye khayalon mein kho gaya tha. Hosh
+            mein aakar bola, "Nahi Binodini, hara rang tum par khil raha hai."
+            Meri tareef sunkar woh muskura di. Main coffee lekar kitchen se
+            bahar nikal hi raha tha ki Binodini ne peeche se dheeme swar mein
+            poochha, "Lunch room mein hi lenge na?" Maine haan mein sir hila
+            diya aur kamre ki taraf badh gaya.
+            <br /> Office ka kaam karte hue lunch ka waqt ho gaya. Binodini
+            khana lekar kamre mein aayi. Kuch der wahin khadi rahi, phir
+            poochha, "Aaj padhayenge kab?" Maine kaha, "Shaam ko." Woh dheere se
+            "Theek hai" bolkar darwaza band karte hue chali gayi.
+            <br />
+            <br />
+            Binodini zyada padhi-likhi nahi thi. Main use apne khaali waqt mein
+            padhna aur likhna sikha raha hoon.Mujhe yaad hai, Sudha batati thi
+            ki Binodini ki shaadi 16 saal ki umar mein ek adhed umar ke vyakti
+            se hui thi. Shaadi ke kuch saal baad uske pati ki typhoid se mrityu
+            ho gayi. Logon ne iska zimmedar Binodini ko thehra diya aur aakhir
+            mein uski saas ne use maayke bhej diya.
+            <br />
+            Kabhi-kabhi sochta hoon, agar Binodini padhi-likhi hoti toh uski
+            zindagi kaisi hoti? Kya woh aaj bhi yahan hamare ghar mein hoti?
+            Sudha ke chale jaane se Maa ji ko gehra asar pada tha. Binodini ki
+            maa meri mummy ki purani dost hain. Unhone hi Binodini ko Maa ji ki
+            dekhbhaal ke liye yahan bheja tha. Maa ji bhi use bahut pasand karti
+            hain. Agar kuch der ke liye bhi Binodini nazar na aaye toh use
+            dhoondhne lagti hain. <br />
+            Shaam ho gayi thi. Binodini chai ke do cup lekar mere kamre mein
+            aayi. Ab woh knock karna bhi zaroori nahi samajhti thi aur mujhe
+            isse koi aapatti nahi thi. Usne chai ki tray table par rakhi aur
+            poochha, "Babuji, aaj ka sheershak kya hoga?"
+            <br /> Maine desk ke doosri taraf ek kursi lagayi aur uski taraf
+            ishara karte hue kaha, "Baitho toh, pehle chai pee lo." <br />
+            Chai ki do chuski lene ke baad maine kaha, "Aaj hum Hindi vyakaran
+            ka agla bhaag padhenge aur..."
+            <br /> Meri baat beech mein kaatkar woh boli, "Chai kaisi hai,
+            Babuji?"
+            <br /> "Achhi hai, Binodini.
+            <br />" Woh muskura kar boli, "Sudha didi jaisi?"
+            <br /> Maine hanskar baat taal di aur uski taraf dekha. Usne kitaab
+            kholi aur humne lagbhag dedh ghante tak padhai ki. Padhai ke
+            saath-saath beech-beech mein baatein bhi hoti rahi. Tabhi Maa ji ne
+            kitchen se Binodini ko awaaz lagayi. Woh kitaabein sametkar chali
+            gayi. Maine bhi desk aur kursi ko unki jagah par rakh diya.
+            <br /> Raat ke nau 9bj chuke the aur office ka kaam bhi khatam ho
+            gaya tha. Binodini chai ke cup aur plate mere kamre mein hi bhool
+            gayi thi. Maine unhe uthaya aur kitchen ki taraf chala gaya. Wahan
+            Binodini khana banane mein vyast thi. Mujhe bartan lekar aata dekh
+            woh ek pal ke liye ghabra gayi, phir khud ko sambhalte hue boli,
+            "Babuji, aap kyun laaye? Awaaz de di hoti."
+            <br /> Maine kaha, "Koi baat nahi."
+            <br /> Kuch der usse baat karne ke baad main bahar jaane laga. Tabhi
+            usne mujhe awaaz di, "Suniye."
+            <br /> Main peeche muda aur kaha, "Kaho."
+            <br /> Uski awaaz mein kuch gambhirta thi. Woh boli, "Mere yahan
+            rehne se aapko koi aapatti toh nahi hai? Aaj paudhon ko paani dene
+            gayi thi toh ek aunty mili. Unse pata chala ki log hum dono ke baare
+            mein galat soch rahe hain. Main wapas jaane ka soch rahi hoon. Maa
+            se bhi mile bahut din ho gaye hain."
+            <br /> Maine kaha, "Humein tumhare rehne se koi aapatti nahi hai.
+            Aur logon ki baaton par dhyaan mat do humare bich kuch v nhi h na
+            hoga. Unki baaton se kuch nahi hone wala. Aur wapas jaane ki kya
+            zaroorat hai? Maa ko yahin bula lo. Mummy ko bhi company mil
+            jayegi." <br />
+            Yeh kehkar main bahar tahalne chala gaya. <br /> <br />
+            Bahar tahalne ke baad jab main ghar lauta toh saamne Binodini maa Ji
+            ke saath baithi hui thi. Mujhe dekhkar usne kuch nahi kaha. Maa se
+            haal-chaal poochhne ke baad main bhi apne kamre ki taraf chala gaya.
+            <br />
+            Haath-pair dhokar office ki file lekar baith gaya. Kuch der baad
+            Binodini khana lekar kamre mein aayi. Usne khane ki thali aur paani
+            ka glass table par rakha aur bina kuch kahe wapas chali gayi. Shayad
+            meri kisi baat ka use bura lag gaya tha. Maine use rokne ki koshish
+            nahi ki.
+            <br /> Khana khane ke baad file band karke bed par rakh di. Nazar
+            Sudha ki tasveer par padi. Use uthakar kuch der dekhta raha, phir
+            apne seene se laga liya.
+            <br />
+            Paanch saal beet gaye hain tumhe gaye hue, Sudha, lekin tumhare liye
+            mera pyaar aaj bhi utna hi hai.
           </p>
         </div>
 
